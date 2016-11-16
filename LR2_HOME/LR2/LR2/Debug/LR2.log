@@ -1,0 +1,10 @@
+﻿Построение начато 04.10.2016 15:45:18.
+     1>Проект "C:\Git\Rep\OOP\LR2_HOME\LR2\LR2\LR2.vcxproj" в узле 2 (целевые объекты ClCompile).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt second.cpp
+         second.cpp
+     1>Построение проекта "C:\Git\Rep\OOP\LR2_HOME\LR2\LR2\LR2.vcxproj" завершено (целевые объекты ClCompile).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.28
